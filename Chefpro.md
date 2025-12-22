@@ -47,7 +47,7 @@ Kitchen professional with hands-on experience as a **Line Cook and Kitchen Staff
 ---
 
 ### The Party Staff — San Diego, CA  
-**Kitchen Assistant / Dishwasher**  
+**Kitchen Assistant**  
 **May 2025 – Jul 2025**
 
 - Supported back-of-house operations for events and restaurant services.  
@@ -57,7 +57,7 @@ Kitchen professional with hands-on experience as a **Line Cook and Kitchen Staff
 ---
 
 ### Chef (Part-Time) — San Jose, CA  
-**2014 – Apr 2025**
+**2024 – Apr 2025**
 
 - Assisted with cooking and food preparation for weekly programs serving **200–1000 guests**.  
 - Handled ingredient shopping, prep, sanitation, and large-batch cooking.  
