@@ -10,6 +10,10 @@ tags:
   - power
   - ups
   - sleep-apnea
+
+
+permalink: /cpap-batteries/
+
 ---
 
 
