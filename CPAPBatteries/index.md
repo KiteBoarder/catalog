@@ -17,6 +17,7 @@ permalink: /cpap-batteries/
 
 This article collects **practical, real-world batteries that actually work
 with CPAP machines**, especially **ResMed AirSense 10 and 11**.
+
 Focused on van life, camping, travel, and power outages.
 
 If you know a battery that works well and isn’t listed, suggest it in the
@@ -27,9 +28,7 @@ comments — I’ll keep this updated.
 ## Batteries Compatible with CPAP Machines
 
 ### 🔋 INIU Power Bank
-<a href="https://amzn.to/3LdG2lX">
-  <img src="iniu.jpg" alt="INIU Power Bank" width="240">
-</a>
+[![INIU Power Bank](small_iniu.jpg)](https://amzn.to/3LdG2lX)
 
 - Type: High-capacity power bank  
 - Output: USB-C PD (up to 65W)  
@@ -42,9 +41,7 @@ comments — I’ll keep this updated.
 ---
 
 ### 🔋 Baseus Power Bank
-<a href="https://amzn.to/4jpnNXC">
-  <img src="baseus.jpg" alt="Baseus Power Bank" width="240">
-</a>
+[![Baseus Power Bank](small_ugreen.jpg)](https://amzn.to/4jpnNXC)
 
 - Type: Power bank  
 - Output: USB-C PD (60W–100W depending on model)  
@@ -57,9 +54,7 @@ comments — I’ll keep this updated.
 ---
 
 ### 🔋 Anker Power Station (C200)
-<a href="https://amzn.to/49biUN7">
-  <img src="anker.jpg" alt="Anker Power Station C200" width="260">
-</a>
+[![Anker Power Station](small_anker.jpg)](https://amzn.to/49biUN7)
 
 - Type: Portable power station  
 - Output: AC + DC + USB  
@@ -74,9 +69,7 @@ comments — I’ll keep this updated.
 ## Required Adapters for ResMed AirSense 10 & 11
 
 ### AirSense 11 Adapter
-<a href="https://amzn.to/4phZKLf">
-  <img src="airsense11adapter.jpg" alt="AirSense 11 Adapter" width="220">
-</a>
+[![AirSense 11 Adapter](small_airsense11adapter.jpg)](https://amzn.to/4phZKLf)
 
 - Required to run AirSense 11 from batteries or power banks  
 - Uses USB-C PD / 24V conversion  
@@ -87,9 +80,7 @@ comments — I’ll keep this updated.
 ---
 
 ### AirSense 10 Adapter
-<a href="https://amzn.to/3YeCDGE">
-  <img src="airsense10adapter.jpg" alt="AirSense 10 Adapter" width="220">
-</a>
+[![AirSense 10 Adapter](small_airsense10adapter.jpg)](https://amzn.to/3YeCDGE)
 
 - Converts battery output to proper DC voltage  
 - Avoids power loss from AC inversion  
@@ -120,4 +111,5 @@ With both OFF:
 
 ---
 
-**Disclosure:** Some links may be affiliate links. They don’t change the price you pay.
+**Disclosure:** Some links may be affiliate links. This does not change the
+price you pay.
