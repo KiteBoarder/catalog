@@ -1,96 +1,81 @@
 ---
 title: "CPAP-Compatible Batteries: A Practical List"
 date: 2025-12-14
-categories: [CPAP, Medical Devices]
-tags: [cpap, battery, power, ups, sleep-apnea]
+categories:
+  - CPAP
+  - Medical Devices
+tags:
+  - cpap
+  - battery
+  - power
+  - ups
+  - sleep-apnea
 ---
 
-## Why Do You Need a Battery for a CPAP Machine?
 
-CPAP machines are critical for people with sleep apnea, and power interruptions can seriously affect therapy. A reliable battery solution is essential for:
+# Best Batteries That Work with CPAP
 
-- Power outages
-- Traveling
-- Camping or off-grid use
-- Vehicle or RV usage
-- Areas with unstable electricity
-
-This post lists **batteries and power stations that are commonly compatible with CPAP machines**.
-
----
-
-## Things to Consider Before Buying a CPAP Battery
-
-Before choosing a battery, make sure to check the following:
-
-- 🔌 **Output voltage** (usually 12V or 24V)
-- ⚡ **Power consumption of your CPAP**
-- 🌬️ **Humidifier usage**  
-  > Using a humidifier can increase power consumption by 2–3×
-- 🔄 DC vs AC output (DC is more efficient)
-- 🔋 Battery capacity (Wh or Ah)
+This post is for people who want to run a **CPAP machine on battery power**  
+(van life, camping, power outages, travel).
 
 ---
 
-## CPAP-Compatible Battery List
+## Batteries Compatible with CPAP Machines
 
-### 🔋 Dedicated CPAP Batteries
-
-| Battery Name | Capacity | Output Voltage | Estimated Runtime* | Notes |
-|-------------|----------|----------------|--------------------|------|
-| Medistrom Pilot-24 Lite | 95Wh | 24V | 1–2 nights | Designed for ResMed devices |
-| Medistrom Pilot-12 Lite | 95Wh | 12V | 1–2 nights | Designed for Philips devices |
-| Freedom CPAP Battery | 160Wh | 12V / 24V | Up to 3 nights | Lightweight and FAA approved |
-| Zopec Explore Mini | 297Wh | 12V / AC | 3–5 nights | High capacity, travel friendly |
-
-\*Runtime estimates assume **no humidifier** and average pressure settings.
+### 🔋 INIU Power Bank
+- Type: High-capacity power bank
+- Output: USB-C PD (up to 65W on supported models)
+- Works with CPAP when used with a **USB-C to DC converter**
+- Compact and lightweight
+- Best for: minimal setups, short overnight use
 
 ---
 
-### 🔌 Portable Power Stations (Power Banks)
-
-| Power Station | Capacity | Output | Estimated Runtime | Notes |
-|--------------|----------|--------|-------------------|------|
-| Jackery Explorer 240 | 240Wh | AC / DC | 2–3 nights | Reliable, compact |
-| EcoFlow River 2 | 256Wh | AC / DC | 2–3 nights | Fast charging |
-| Bluetti EB3A | 268Wh | AC / DC | 2–3 nights | Good value |
-| Goal Zero Yeti 200X | 187Wh | AC / DC | 1–2 nights | Durable build |
-
-> ⚠️ When using AC output, expect **10–20% efficiency loss** compared to DC.
+### 🔋 Baseus Power Bank
+- Type: Power bank
+- Output: USB-C PD (60W–100W depending on model)
+- Works with CPAP using a **USB-C PD → DC adapter**
+- Good balance between size and power
+- Best for: single-night use with optimized settings
 
 ---
 
-## DC vs AC: Which Is Better?
-
-- ✅ **DC output** → More efficient, longer runtime
-- ❌ **AC output** → Easier setup but shorter battery life
-
-If your CPAP supports DC input, always use a **DC cable**.
-
----
-
-## Estimated Power Consumption of Common CPAP Machines
-
-| CPAP Model | Avg Power (No Humidifier) |
-|-----------|---------------------------|
-| ResMed AirSense 10 | ~10–15W |
-| ResMed AirSense 11 | ~10–20W |
-| Philips DreamStation | ~10–15W |
-| Travel CPAP (AirMini, Z2) | ~5–10W |
+### 🔋 Anker Power Station
+- Type: Portable power station
+- Output: AC + DC + USB
+- Can power CPAP directly via **AC outlet** or DC
+- Much larger capacity than power banks
+- Best for: multi-night use, reliability, off-grid setups
 
 ---
 
-## Final Notes
+## Required Adapters for ResMed AirSense 10 & 11
 
-- Always check **manufacturer compatibility**
-- Disable humidifier and heated tubing when on battery
-- Carry spare cables/adapters
-- For travel, look for **FAA-approved batteries**
+### AirSense 10
+- Needs a **12V or 24V DC converter** (official or third-party)
+- Avoid AC inverter if possible (wastes power)
+- DC cable is more efficient and extends runtime
+
+### AirSense 11
+- Requires **USB-C PD or 24V DC input**
+- USB-C PD trigger cable (20V → 24V) is commonly used
+- Works well with high-quality PD power banks
 
 ---
 
-If you want, I can:
-- Customize this for a **specific CPAP model**
-- Add **affiliate-friendly links**
-- Convert it to **pure HTML**
-- Add **SEO optimization (meta, headings, schema)**
+## Important Power-Saving Notes (Critical)
+
+- **Turn OFF humidifier**
+- **Turn OFF heated hose**
+- These two features can **double or triple power consumption**
+- With both OFF:
+  - Power banks can last 1 night
+  - Power stations can last multiple nights
+
+---
+
+## Summary
+- Power banks (INIU / Baseus): portable, limited runtime
+- Power stations (Anker): heavy, long runtime
+- Always use DC or USB-C adapters
+- Disable humidity and hose heating to maximize battery life
