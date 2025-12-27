@@ -30,18 +30,18 @@ comments — I’ll keep this updated.
 ### 🔋 INIU Power Bank
 [![INIU Power Bank](small_iniu.jpg)](https://amzn.to/3LdG2lX)
 
-- Type: High-capacity power bank  
-- Output: USB-C PD (up to 65W)  
+- Type: High-capacity power bank 27,000mah
+- Output: USB-C PD (up to 145W)  
 - Works with CPAP using a **USB-C PD → DC converter**  
 - Compact and lightweight  
-- Best for: minimal setups, single-night use  
+- Best for: minimal setups, up to two night use  
 
 👉 [Check price on Amazon](https://amzn.to/3LdG2lX)
 
 ---
 
-### 🔋 Baseus Power Bank
-[![Baseus Power Bank](small_ugreen.jpg)](https://amzn.to/4jpnNXC)
+### 🔋 UGreen Power Bank
+[![UGreen Power Bank](small_ugreen.jpg)](https://amzn.to/4jpnNXC)
 
 - Type: Power bank  
 - Output: USB-C PD (60W–100W depending on model)  
