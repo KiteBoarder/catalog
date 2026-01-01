@@ -38,7 +38,7 @@ With a pass-through power bank:
 
 ## Product 1: Pass-Through Power Bank (Core Component)
 
-![Pass-through power bank](1)
+!(1)
 
 ### Key Features
 - Supports simultaneous input and output
@@ -59,7 +59,7 @@ With a pass-through power bank:
 
 ## Product 2: High-Watt USB-C Car Charger (Strongly Recommended)
 
-![High-watt car charger](2)
+!(2)
 
 ### Why This Matters
 A low-power charger wastes engine-on time.
