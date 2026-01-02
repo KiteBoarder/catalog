@@ -15,7 +15,7 @@ They only need:
 ## The Solution
 Use a **power bank that supports pass-through charging**.
 
-👉 [Check the recommended power bank on Amazon](https://amzn.to/4jhyqLO)
+👉 [Check the power bank on Amazon](https://amzn.to/4jhyqLO)
 
 This setup allows:
 - The power bank to charge only when the engine is ON
