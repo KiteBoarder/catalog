@@ -15,7 +15,6 @@ They only need:
 ## The Solution
 Use a **power bank that supports pass-through charging**.
 
-👉 [Check the power bank on Amazon](https://amzn.to/4jhyqLO)
 
 This setup allows:
 - The power bank to charge only when the engine is ON
@@ -80,4 +79,5 @@ A high-watt USB-C PD charger:
 - No risk to the starter battery
 
 ✅ Best minimalist setup using this power bank:  
-👉 [Check it on Amazon](https://amzn.to/49yZkeR)
+👉 [Check the power bank on Amazon](https://amzn.to/4jhyqLO)
+👉 [Check the Car Charger on Amazon](https://amzn.to/49yZkeR)
