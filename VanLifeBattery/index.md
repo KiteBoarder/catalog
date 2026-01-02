@@ -80,4 +80,5 @@ A high-watt USB-C PD charger:
 
 ✅ Best minimalist setup using this power bank:  
 👉 [Check the power bank on Amazon](https://amzn.to/4jhyqLO)
+
 👉 [Check the Car Charger on Amazon](https://amzn.to/49yZkeR)
