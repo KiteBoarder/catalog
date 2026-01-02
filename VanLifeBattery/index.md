@@ -58,7 +58,7 @@ With a pass-through power bank:
 
 ## Product 2: High-Watt USB-C Car Charger (Strongly Recommended)
 
-<img src="2.jpg" width="220" alt="Car Charger">
+<img src="Anker.jpg" width="220" alt="Car Charger">
 
 ### Why This Matters
 A low-power charger wastes engine-on time.
