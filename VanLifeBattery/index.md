@@ -69,7 +69,7 @@ A high-watt USB-C PD charger:
 - Maximizes efficiency with no extra hardware
 
 👉 Works perfectly with this power bank:  
-[Check it on Amazon](https://amzn.to/4jhyqLO)
+[Check it on Amazon](https://amzn.to/49yZkeR)
 
 ---
 
@@ -80,4 +80,4 @@ A high-watt USB-C PD charger:
 - No risk to the starter battery
 
 ✅ Best minimalist setup using this power bank:  
-👉 **https://amzn.to/4jhyqLO**
+👉 [Check it on Amazon](https://amzn.to/49yZkeR)
