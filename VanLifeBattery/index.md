@@ -45,8 +45,9 @@ With a pass-through power bank:
 - Other port(s) power phones, tablets, earbuds, etc.
 - No daily unplugging or reconnecting
 
-🔗 **Check it on Amazon**  
-[https://amzn.to/4jhyqLO](https://amzn.to/4jhyqLO)
+
+🔗 **Shop here**  
+[Check it on Amazon](https://amzn.to/4jhyqLO)
 
 ### Real-World Usage
 - Driving → power bank charges  
