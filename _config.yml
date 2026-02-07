@@ -1,9 +1,4 @@
-remote_theme: pmarsceill/just-the-docs
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
-
-navbar:
-  title: false
-
-sidebar:
-  nav: false
+minimal_mistakes_skin: default
