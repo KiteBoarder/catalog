@@ -1,3 +1,8 @@
+---
+title: XREAL One / 1S Case – No Cable Removal
+---
+
+
 If you’re looking for a case for **XREAL 1S**, **XREAL One series**, or basically **any AR glasses**, mainly for **storing them without removing the cable**, this one works much better than the original tight case.
 
 The glasses fit inside naturally with no pressure. You don’t need to unplug the cable, and it doesn’t get pinched or crushed. Compared to the stock case, this is simply more usable for daily storage.
