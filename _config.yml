@@ -1,1 +1,9 @@
-theme: jekyll-theme-merlot
+remote_theme: pmarsceill/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+navbar:
+  title: false
+
+sidebar:
+  nav: false
