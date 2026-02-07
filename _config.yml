@@ -1,17 +1,8 @@
-remote_theme: mmistakes/minimal-mistakes
-plugins:
-  - jekyll-remote-theme
-
-minimal_mistakes_skin: default
+theme: jekyll-theme-cayman
 
 defaults:
   - scope:
       path: ""
       type: pages
     values:
-      layout: single
-      header:
-        show: false
-      sidebar:
-        nav: false
-      footer: false
+      layout: article
