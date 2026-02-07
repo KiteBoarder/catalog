@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+
+  <!-- Cayman CSS only -->
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+
+  <style>
+    body {
+      background: #fff;
+    }
+    .main-content {
+      max-width: 820px;
+      margin: 0 auto;
+      padding: 32px 16px 64px;
+      float: none;
+    }
+  </style>
+</head>
+<body>
+  <main class="main-content">
+    {{ content }}
+  </main>
+</body>
+</html>
