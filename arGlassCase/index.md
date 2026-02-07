@@ -1,4 +1,5 @@
 ---
+layout: null
 title: XREAL One / 1S Case – No Cable Removal
 ---
 
