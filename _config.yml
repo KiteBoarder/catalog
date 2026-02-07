@@ -1,4 +1,17 @@
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-remote-theme
+
 minimal_mistakes_skin: default
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      header:
+        show: false
+      sidebar:
+        nav: false
+      footer: false
