@@ -1,23 +1,23 @@
 const products = [
   {
-    name: "ResMed AirSense 11 AutoSet CPAP Machine",
-    description: "Smart auto-adjusting CPAP with built-in humidifier, cellular connectivity, and the myAir app for sleep tracking.",
-    image: "images/resmed-airsense-11.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09EXAMPLE1",
+    name: "INIU 25000mAh Power Bank",
+    description: "Compact 140W laptop-grade portable charger with digital display. Powers CPAP machines via USB-C PD — great for travel, camping, and power outages.",
+    image: "https://m.media-amazon.com/images/I/71uScunmPQL._AC_SL1500_.jpg",
+    amazonUrl: "https://amzn.to/4eX1pER",
     badge: "Best Seller"
   },
   {
-    name: "Philips DreamWear Full Face CPAP Mask",
-    description: "Minimal contact full face mask with top-of-head tube connection for unrestricted movement and a comfortable seal.",
-    image: "images/philips-dreamwear-mask.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09EXAMPLE2",
-    badge: "Top Rated"
+    name: "AirSense 11 USB-C Charging Adapter",
+    description: "PD USB-C to 24V DC cable for ResMed AirSense 11, AirMini, and compatible CPAP machines. Run your CPAP directly from a power bank — no inverter needed.",
+    image: "https://m.media-amazon.com/images/I/61FGcA8MsLL._AC_SL1500_.jpg",
+    amazonUrl: "https://amzn.to/4nBdi5u",
+    badge: "Essential"
   },
   {
-    name: "Transcend Travel CPAP Machine",
-    description: "Ultra-compact, FAA-approved travel CPAP with optional battery pack — perfect for travel and camping.",
-    image: "images/transcend-travel-cpap.jpg",
-    amazonUrl: "https://www.amazon.com/dp/B09EXAMPLE3",
-    badge: "Editor's Pick"
+    name: "UGREEN 130W USB-C Car Charger",
+    description: "High-power Type-C car charger adapter compatible with MacBook, iPad, iPhone, and Galaxy devices. Charge your CPAP power bank fast on the road.",
+    image: "https://m.media-amazon.com/images/I/61UCFe0Tv3L._AC_SL1500_.jpg",
+    amazonUrl: "https://amzn.to/4doUH80",
+    badge: "Top Rated"
   }
 ];
