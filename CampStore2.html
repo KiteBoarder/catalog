@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Camp Store</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f5f5; color: #333; }
+    header { background: #232f3e; color: white; padding: 20px; text-align: center; }
+    header h1 { font-size: 1.8em; }
+    .container { max-width: 900px; margin: 30px auto; padding: 0 20px; display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; }
+    .product-card { background: white; border-radius: 8px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1); display: flex; flex-direction: column; }
+    .product-card img { width: 100%; height: 200px; object-fit: contain; padding: 10px; background: white; }
+    .product-info { padding: 15px; flex: 1; display: flex; flex-direction: column; gap: 10px; }
+    .product-info h2 { font-size: 1em; line-height: 1.4; }
+    .product-info p { font-size: 0.9em; color: #666; flex: 1; }
+    .buy-btn { display: block; background: #ff9900; color: white; text-align: center; padding: 10px; border-radius: 4px; text-decoration: none; font-weight: bold; margin-top: auto; }
+    .buy-btn:hover { background: #e68900; }
+    footer { text-align: center; padding: 20px; color: #999; font-size: 0.8em; margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Camp Store</h1>
+  </header>
+  <div class="container">
+    
+    <div class="product-card">
+      <img src="https://m.media-amazon.com/images/I/71M7bnhqWrL._AC_SX679_.jpg" alt="DEWALT 20V MAX LED Work Light (DCL040)">
+      <div class="product-info">
+        <h2>DEWALT 20V MAX LED Work Light (DCL040)</h2>
+        <p>Bright 110-lumen LED work light with pivoting head, ideal for camping, emergency kits, job sites, and outdoor activities. Compatible with DEWALT 20V MAX batteries for long runtime and reliable portable lighting.</p>
+        <a href="https://www.amazon.com/dp/B00SKOCRCW?tag=yourtag-20" target="_blank" class="buy-btn">
+          Check Price on Amazon
+        </a>
+      </div>
+    </div>
+  </div>
+  <footer>Updated: Wed, 03 Jun 2026 14:28:31 GMT</footer>
+</body>
+</html>
