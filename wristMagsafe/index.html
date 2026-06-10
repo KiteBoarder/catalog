@@ -1,1 +1,238 @@
+html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>XREAL MagSafe Wrist Setup</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: linear-gradient(135deg, #101827, #1f2937);
+      color: #ffffff;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 32px 18px 50px;
+    }
+
+    .hero {
+      text-align: center;
+      margin-bottom: 34px;
+    }
+
+    .hero h1 {
+      font-size: 2.1rem;
+      margin-bottom: 12px;
+      line-height: 1.2;
+    }
+
+    .hero p {
+      color: #d1d5db;
+      font-size: 1.05rem;
+      max-width: 680px;
+      margin: 0 auto;
+    }
+
+    .card {
+      background: rgba(255, 255, 255, 0.08);
+      border: 1px solid rgba(255, 255, 255, 0.14);
+      border-radius: 20px;
+      padding: 22px;
+      margin-bottom: 26px;
+      backdrop-filter: blur(10px);
+      box-shadow: 0 18px 40px rgba(0, 0, 0, 0.25);
+    }
+
+    .card h2 {
+      margin-top: 0;
+      font-size: 1.35rem;
+    }
+
+    .features {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 14px;
+      margin-top: 18px;
+    }
+
+    .feature {
+      background: rgba(255, 255, 255, 0.07);
+      border-radius: 14px;
+      padding: 14px 16px;
+    }
+
+    .feature strong {
+      display: block;
+      margin-bottom: 4px;
+      color: #ffffff;
+    }
+
+    .feature span {
+      color: #d1d5db;
+    }
+
+    .photos {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 18px;
+      margin-top: 18px;
+    }
+
+    .photos a {
+      display: block;
+      text-decoration: none;
+      border-radius: 18px;
+      overflow: hidden;
+      transition: transform 0.18s ease, box-shadow 0.18s ease;
+      background: #111827;
+    }
+
+    .photos a:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 18px 36px rgba(0, 0, 0, 0.35);
+    }
+
+    .photos img {
+      width: 100%;
+      display: block;
+      height: auto;
+    }
+
+    .caption {
+      padding: 12px 14px;
+      color: #d1d5db;
+      font-size: 0.95rem;
+      text-align: center;
+    }
+
+    .button {
+      display: inline-block;
+      margin-top: 18px;
+      padding: 14px 22px;
+      border-radius: 999px;
+      background: #ffffff;
+      color: #111827;
+      font-weight: 700;
+      text-decoration: none;
+      transition: transform 0.18s ease, opacity 0.18s ease;
+    }
+
+    .button:hover {
+      transform: translateY(-2px);
+      opacity: 0.9;
+    }
+
+    .note {
+      color: #9ca3af;
+      font-size: 0.9rem;
+      margin-top: 18px;
+      text-align: center;
+    }
+
+    @media (min-width: 700px) {
+      .hero h1 {
+        font-size: 2.7rem;
+      }
+
+      .features {
+        grid-template-columns: repeat(2, 1fr);
+      }
+
+      .photos {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <main class="container">
+    <section class="hero">
+      <h1>My Hands-Free XREAL + MagSafe Wrist Setup</h1>
+      <p>
+        I use a MagSafe wrist mount to keep my phone attached to my wrist
+        while using XREAL glasses in Side View mode. It is not perfect, but
+        it makes walking, chores, and casual video watching much easier.
+      </p>
+    </section>
+
+    <section class="card">
+      <h2>Why I like this setup</h2>
+
+      <div class="features">
+        <div class="feature">
+          <strong>Phone is not stuck in my pocket</strong>
+          <span>
+            I can quickly access the phone whenever I need it without pulling
+            it out every time.
+          </span>
+        </div>
+
+        <div class="feature">
+          <strong>Hands stay mostly free</strong>
+          <span>
+            I can tap or type something quickly, then immediately go back to
+            walking or doing whatever I was doing.
+          </span>
+        </div>
+
+        <div class="feature">
+          <strong>Works well with Side View</strong>
+          <span>
+            It is useful when I want to watch videos while moving around or
+            doing simple tasks.
+          </span>
+        </div>
+
+        <div class="feature">
+          <strong>Simple and cheap</strong>
+          <span>
+            No complicated setup. Just a MagSafe wrist mount and the phone.
+          </span>
+        </div>
+      </div>
+
+      <div style="text-align:center;">
+        <a class="button" href="https://amzn.to/4utWNKj" target="_blank" rel="noopener noreferrer">
+          Check the wrist mount on Amazon
+        </a>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2>Photos of the setup</h2>
+      <p>
+        Tap any photo to open the Amazon link for the wrist mount.
+      </p>
+
+      <div class="photos">
+        <a href="https://amzn.to/4utWNKj" target="_blank" rel="noopener noreferrer">
+          <img src="wristMagsafe1.jpg" alt="MagSafe wrist mount setup with XREAL glasses" />
+          <div class="caption">Wrist-mounted phone setup</div>
+        </a>
+
+        <a href="https://amzn.to/4utWNKj" target="_blank" rel="noopener noreferrer">
+          <img src="wristMagsafe2.jpg" alt="Phone attached to wrist using MagSafe wrist mount" />
+          <div class="caption">Phone attached to the wrist</div>
+        </a>
+      </div>
+    </section>
+
+    <p class="note">
+      Disclosure: The Amazon link may be an affiliate link.
+    </p>
+  </main>
+</body>
+</html>
+
 
